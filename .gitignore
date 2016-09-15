@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+# Ignore everything Except
+!*.sln
+!*.vcxproj*
+!*.c
+!*.ico
